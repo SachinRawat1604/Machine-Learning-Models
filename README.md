@@ -3,27 +3,23 @@
 ```markdown
 # Boston Housing Price Prediction 🏡💰
 
-[![Project Status](https://img.shields.io/badge/status-prototype-yellow)](https://www.repostatus.org/#prototype)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-
 ## 📖 Table of Contents
 
-*   [Boston Housing Price Prediction 🏡💰](#boston-housing-price-prediction-️)
-*   [📖 Table of Contents](#-table-of-contents)
-*   [🌟 Overview](#-overview)
-*   [✨ Key Features](#-key-features)
-*   [📁 Dataset Information](#-dataset-information)
-*   [💻 Tech Stack](#-tech-stack)
-*   [🛠️ Installation](#️-installation)
-*   [🚀 Usage](#-usage)
-*   [📊 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-*   [🎯 Modeling](#-modeling)
-*   [📝 Contributing](#-contributing)
-*   [📜 License](#-license)
-*   [🤝 Code of Conduct](#-code-of-conduct)
-*   [🙏 Acknowledgments](#-acknowledgments)
-*   [❓ Questions and Issues](#-questions-and-issues)
+*   [Boston Housing Price Prediction 🏡💰]
+*   [📖 Table of Contents]
+*   [🌟 Overview]
+*   [✨ Key Features]
+*   [📁 Dataset Information]
+*   [💻 Tech Stack]
+*   [🛠️ Installation]
+*   [🚀 Usage]
+*   [📊 Exploratory Data Analysis (EDA)]
+*   [🎯 Modeling]
+*   [📝 Contributing]
+*   [📜 License]
+*   [🤝 Code of Conduct]
+*   [🙏 Acknowledgments]
+*   [❓ Questions and Issues]
 
 ## 🌟 Overview
 
